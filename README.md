@@ -15,4 +15,5 @@ A gift store's data was taken from kaggel.com. which contained 5 years data of d
      * XGBoost
      * LSTM
   * Train test split
+
 and finally 5 months future demand was forecasted for top 7 products.
